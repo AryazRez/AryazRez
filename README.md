@@ -8,16 +8,16 @@ How to read this GitHub
 
 This GitHub reflects three phases of my work.
 
-Academic foundations
+#### Academic foundations
 Projects completed during my graduate program, focused on core machine learning and NLP concepts, modeling techniques, and evaluation. I keep these public as reference points for how my approach has evolved.
 
-Translation to real world constraints
+#### Translation to real world constraints
 Independent projects applying AI techniques to life sciences and other regulated datasets, with an emphasis on system design, data quality, and failure modes.
 
-Ongoing experimentation and systems thinking
+#### Ongoing experimentation and systems thinking
 Current and future work exploring modern AI tooling, orchestration patterns, and automation workflows. These projects focus less on novelty and more on tradeoffs, durability, and judgment.
 
-Current focus
+### Current focus
 
 - Applied machine learning and LLM systems
 
@@ -31,10 +31,10 @@ Current focus
 
 ### Featured project
 
-FAERS Adverse Event Analytics Pipeline
+#### FAERS Adverse Event Analytics Pipeline
 Independent, post degree project building a GxP oriented analytics pipeline on FDA FAERS data. Includes Snowflake based data modeling, full lineage and auditability, and Power BI dashboards. Designed to demonstrate how AI and analytics can be applied responsibly in pharmacovigilance and other regulated settings.
 
-Selected prior work
+### Selected prior work
 
 These projects reflect academic or exploratory work completed during my graduate program and earlier experimentation.
 
