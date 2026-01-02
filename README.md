@@ -4,7 +4,9 @@ I work at the intersection of applied AI, data systems, and regulated environmen
 
 I have 15+ years of experience in quality, compliance, and digital transformation within the life sciences, and I recently completed an MS in Applied Artificial Intelligence. My focus is on designing and evaluating AI-enabled systems that hold up under real world constraints such as data integrity, reproducibility, safety, and governance.
 
-How to read this GitHub
+--------------------------------------------------------------------------------
+
+### How to read this GitHub
 
 This GitHub reflects three phases of my work.
 
