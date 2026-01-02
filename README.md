@@ -19,17 +19,17 @@ Current and future work exploring modern AI tooling, orchestration patterns, and
 
 Current focus
 
-Applied machine learning and LLM systems
+- Applied machine learning and LLM systems
 
-Agentic workflows and orchestration
+- Agentic workflows and orchestration
 
-Cloud native AI tooling across AWS, Azure, and GCP
+- Cloud native AI tooling across AWS, Azure, and GCP
 
-MLOps, monitoring, and reproducibility
+- MLOps, monitoring, and reproducibility
 
-AI design in regulated or high stakes environments
+- AI design in regulated or high stakes environments
 
-Featured project
+### Featured project
 
 FAERS Adverse Event Analytics Pipeline
 Independent, post degree project building a GxP oriented analytics pipeline on FDA FAERS data. Includes Snowflake based data modeling, full lineage and auditability, and Power BI dashboards. Designed to demonstrate how AI and analytics can be applied responsibly in pharmacovigilance and other regulated settings.
