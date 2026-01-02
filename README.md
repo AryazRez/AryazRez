@@ -19,15 +19,15 @@ Current and future work exploring modern AI tooling, orchestration patterns, and
 
 Current focus
 
-# Applied machine learning and LLM systems
+- Applied machine learning and LLM systems
 
-# Agentic workflows and orchestration
+- Agentic workflows and orchestration
 
-# Cloud-native AI tooling (AWS, Azure, GCP)
+- Cloud-native AI tooling (AWS, Azure, GCP)
 
-# MLOps, monitoring, and reproducibility
+- MLOps, monitoring, and reproducibility
 
-# AI design in regulated or high-stakes environments
+- AI design in regulated or high-stakes environments
 
 ---
 
