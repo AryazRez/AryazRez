@@ -29,7 +29,7 @@ Current and future work exploring modern AI tooling, orchestration patterns, and
 
 - AI design in regulated or high stakes environments
 
-### Featured project
+### 🌟 Featured project
 
 #### FAERS Adverse Event Analytics Pipeline
 Independent, post degree project building a GxP oriented analytics pipeline on FDA FAERS data. Includes Snowflake based data modeling, full lineage and auditability, and Power BI dashboards. Designed to demonstrate how AI and analytics can be applied responsibly in pharmacovigilance and other regulated settings.
@@ -45,29 +45,6 @@ These projects reflect academic or exploratory work completed during my graduate
 - Deep Learning for Composer Attribution, LSTM and CNN based sequence modeling for music classification
 
 - Image Enhancement with U Net, denoising and inpainting evaluated with PSNR and SSIM
-
-Explore individual repository READMEs for architecture details, design decisions, and limitations.
-
----
-
-## 🌟 Featured Projects
-
-**[FAERS Adverse Event Analytics Pipeline](https://github.com/AryazRez/FAERS_Snowflake_Analytics)**  
-Built a GxP-grade data mart in Snowflake for 1.4M FDA cases—full lineage, auditability, and instant Power BI dashboards. Foundation for automated, compliant AI/ML in pharmacovigilance.
-
-**[SPY Market ML — End-to-End Trading Signal Platform](https://github.com/BJohnson75/AAI540-Team-1)**  
-Production machine learning pipeline on AWS: batch inference, CI/CD, model registry, and S&P 500 analytics for high-frequency trading and risk modeling.
-
-**[Conversational AI — Movie Dialog Chatbot](https://github.com/AryazRez/Cornell-Movie-Dialog-Corpus)**  
-Fine-tuned GPT-2 on real-world dialog; engineered robust fallbacks and delivered a deployable chatbot with measurable accuracy and natural conversation flow.
-
-**[Deep Learning for Composer Attribution](https://github.com/Roehrkard/ltsm_cnn_composer_predictor_final)**  
-Hybrid LSTM/CNN model for music composer prediction—designed and owned the entire pipeline, from feature engineering to deployment and result analysis.
-
-**[Image Enhancement with U-Net](https://github.com/cptfudgemonkey/AAI_521_Final_Project)**  
-Custom U-Net for denoising, colorization, and inpainting; evaluated on industry metrics (PSNR, SSIM) and deployed with an interactive web demo.
-
----
 
 *Explore repo READMEs for architecture, contributions, and results.  
 For my complete portfolio, visit [my GitHub](https://github.com/AryazRez).*
