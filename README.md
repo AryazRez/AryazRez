@@ -1,10 +1,31 @@
-# Aryaz Zomorodi — Data, Cloud & AI Portfolio
+👋 Hi, I’m Aryaz
 
-Builder of scalable, regulated, and analytics-driven solutions for the life sciences and beyond.  
-15+ years leading quality, compliance, and digital transformation—now architecting next-gen cloud, AI, and ML systems that deliver business results in high-stakes, data-driven environments.
+I work at the intersection of applied AI, data systems, and regulated environments.
 
-**Platforms & Skills:**  
-AWS (Athena, SageMaker), Snowflake, Python, SQL, Power BI, Tableau, MLOps, GxP, LLMs, Deep Learning
+I have 15+ years of experience in quality, compliance, and digital transformation within the life sciences, and I recently completed an MS in Applied Artificial Intelligence. My focus is on designing and evaluating AI-enabled systems that hold up under real-world constraints such as data integrity, reproducibility, safety, and governance.
+
+How to read this GitHub
+
+This GitHub reflects three phases of my work:
+
+1. Academic foundations
+Projects completed during my graduate program, focused on core machine learning and NLP concepts, modeling techniques, and evaluation. I keep these public as reference points for how my approach has evolved.
+
+2. Translation to real-world constraints
+Independent projects applying AI techniques to life sciences and other regulated datasets, with an emphasis on system design, data quality, and failure modes.
+
+3. Ongoing experimentation and systems thinking
+Current and future work exploring modern AI tooling, orchestration patterns, and automation workflows. These projects focus less on novelty and more on tradeoffs, durability, and judgment.
+
+Current focus
+
+Applied machine learning and LLM systems
+
+Agentic workflows and orchestration
+
+Cloud-native AI tooling (AWS, Azure, GCP)
+
+MLOps, monitoring, and reproducibility
 
 ---
 
